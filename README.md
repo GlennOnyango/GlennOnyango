@@ -23,12 +23,12 @@ I am a javascript and react Developer at Jenga. Passionate about bringing variou
 
 ### My Github Stats 📊
 
-[![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GlennOnyango&theme=dracula)](https://github.com/GlennOnyango/github-profile-summary-cards)
+[![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GlennOnyango&theme=dracula&count_private=true)](https://github.com/GlennOnyango/github-profile-summary-cards)
 
-[![](https://github-readme-stats.vercel.app/api/?username=GlennOnyango&show_icons=true&theme=dracula&hide_border=true)](https://github.com/GlennOnyango/github-profile-summary-cards)
+[![](https://github-readme-stats.vercel.app/api/?username=GlennOnyango&show_icons=true&theme=dracula&hide_border=true&count_private=true)](https://github.com/GlennOnyango/github-profile-summary-cards)
 
-[![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GlennOnyango&theme=dracula)](https://github.com/GlennOnyango/github-profile-summary-cards) [![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GlennOnyango&theme=dracula)](https://github.com/GlennOnyango/github-profile-summary-cards)
-[![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=GlennOnyango&theme=dracula)](https://github.com/GlennOnyango/github-profile-summary-cards) [![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GlennOnyango&theme=dracula&utcOffset=8)](https://github.com/GlennOnyango/github-profile-summary-cards)
+[![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GlennOnyango&theme=dracula&count_private=true)](https://github.com/GlennOnyango/github-profile-summary-cards) [![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GlennOnyango&theme=dracula&count_private=true)](https://github.com/GlennOnyango/github-profile-summary-cards)
+[![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=GlennOnyango&theme=dracula&count_private=true)](https://github.com/GlennOnyango/github-profile-summary-cards) [![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GlennOnyango&theme=dracula&utcOffset=8&count_private=true)](https://github.com/GlennOnyango/github-profile-summary-cards)
 ---
 
 ### My Github Stars ✨
@@ -36,7 +36,7 @@ I am a javascript and react Developer at Jenga. Passionate about bringing variou
 
 ---
 
-![](https://github-profile-trophy.vercel.app/?username=GlennOnyango&show_icons=true&theme=dracula&hide_border=true)
+![](https://github-profile-trophy.vercel.app/?username=GlennOnyango&show_icons=true&theme=dracula&hide_border=true&count_private=true)
 
 ---
 
