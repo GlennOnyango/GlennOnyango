@@ -1,6 +1,7 @@
 ### Hi there I am [Glenn Tedd Onyango]<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <br/>
 
+
 [![Twitter Followers](https://img.shields.io/badge/Twitter-blue?style=social&logo=twitter)](https://twitter.com/legendary_tedd)
 [![Linkedin Followers](https://img.shields.io/badge/LinkedIn-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/glenn-onyango-50077a178/)
 
@@ -18,13 +19,26 @@ I am a javascript and react Developer at Jenga. Passionate about bringing variou
 
 ---
 
+
+
 ### My Github Stats 📊
 
 [![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GlennOnyango&theme=dracula)](https://github.com/GlennOnyango/github-profile-summary-cards)
+
+[![](https://github-readme-stats.vercel.app/api/?username=GlennOnyango&show_icons=true&theme=dracula&hide_border=true)](https://github.com/GlennOnyango/github-profile-summary-cards)
+
 [![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GlennOnyango&theme=dracula)](https://github.com/GlennOnyango/github-profile-summary-cards) [![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GlennOnyango&theme=dracula)](https://github.com/GlennOnyango/github-profile-summary-cards)
 [![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=GlennOnyango&theme=dracula)](https://github.com/GlennOnyango/github-profile-summary-cards) [![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GlennOnyango&theme=dracula&utcOffset=8)](https://github.com/GlennOnyango/github-profile-summary-cards)
 ---
 
+### My Github Stars ✨
+
+
+---
+
+![](https://github-profile-trophy.vercel.app/?username=GlennOnyango&show_icons=true&theme=dracula&hide_border=true)
+
+---
 
 <!--END_SECTION:activity-->
 
